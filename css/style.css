@@ -184,7 +184,8 @@ margin : 0;
 float : left;
 margin-right : 30px;
 margin-top : 19px;
-width : 76px;
+margin-bottom : 19px;
+width : 70px;
 }
 #pricing_sec {
 padding : 70px 0;
@@ -345,7 +346,7 @@ vertical-align : middle;
 width : 100%;
 }
 #slider_sec {
-background-image : url("../img/slider.jpg");
+
 background-position : center center;
 background-repeat : no-repeat;
 background-size : 100% 100%;
@@ -388,7 +389,7 @@ margin : 0 auto;
 display : block;
 }
 .carousel-indicators li {
-background-color : #363636;
+background-color : #A80000;
 border : none medium;
 border-radius : 5px;
 cursor : pointer;
@@ -400,7 +401,7 @@ width : 25px;
 .carousel-indicators .active {
 width : 25px;
 height : 7px;
-background-color : #00AFF0;
+background-color : white;
 }
 #counting_sec {
 background : none 0 0 repeat scroll #f0f0f0;
@@ -457,7 +458,7 @@ padding-bottom : 30px;
 }
 .service i {
 font-size : 50px;
-color : #03B0F0;
+color : red;
 position : relative;
 }
 .service_hoverly {
@@ -644,7 +645,7 @@ text-align : center;
 border : #ebebeb solid 5px;
 }
 .sngl_pricing:hover {
-border : #00AFF0 solid 5px;transition: all 1s ease 0s;
+border : #337ab7 solid 5px;transition: all 1s ease 0s;
 -moz-transition: all 1s ease 0s;
 -webkit-transition: all 1s ease 0s
 }
@@ -667,7 +668,7 @@ background-repeat : no-repeat;
 background-size : 100% 100%;
 }
 .title_bg_2 {
-background-image : url("../img/standar.jpg");
+background-color: red;
 background-position : center center;
 background-repeat : no-repeat;
 background-size : 100% 100%;
@@ -728,7 +729,7 @@ display : none;
 padding : 70px 0;
 }
 #cnt_form .btn {
-background : #353638;
+background : red;
 padding : 10px 35px;
 }
 #cnt_form .form-control:focus {
@@ -745,7 +746,7 @@ list-style : none outside none;
 padding : 15px 0;
 }
 .cnt_info ul li i {
-color : #818181;
+color : red;
 float : left;
 margin-top : 5px;
 }
@@ -766,7 +767,7 @@ padding-right : 10px;
 display : inline;
 }
 .ft ul li a {
-border : #818181 solid 1px;
+border : white solid 1px;
 border-radius : 50px;
 display : inline-block;
 margin : 0 auto;
@@ -774,7 +775,7 @@ padding : 7px 11px;
 text-align : center;
 }
 .ft ul li a i {
-color : #363636;
+color : white;
 font-size : 15px;
 transition: all 1s ease 0s;
 -moz-transition: all 1s ease 0s;
@@ -799,7 +800,8 @@ font-weight : normal;
 text-transform : uppercase;
 }
 #ft_sec {
-padding : 70px 0;
+padding : 20px 0;
+background-color: #A80000;
 }
 .copy_right {
 margin : 0;
@@ -811,7 +813,7 @@ font-weight : 600;
 list-style : none outside none;
 padding : 2px;
 text-align : center;
-color : #818181;
+color : white;
 text-transform : uppercase;
 }
 .copy_right {
@@ -833,7 +835,7 @@ margin-left : 15px;
 padding : 100px 0;
 }
 .main_menu_sec {
-background : none 0 0 repeat scroll #353638;
+background : none 0 0 repeat scroll #A80000 ;
 border : none 0;
 margin : 0;
 }
