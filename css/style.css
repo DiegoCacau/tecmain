@@ -982,3 +982,37 @@ width : 355px !important ;
 .single_cnt_m {
 width : 731px !important ;
 }
+
+
+#logo{
+	margin-left: 20px;
+}
+
+.navbar{
+	background-color:  #A80000;
+	border: none;
+}
+
+.navbar-nav>li, .navbar-default .navbar-nav>li>a{
+	color: white;
+	font-color: white;
+	font-size: 19px;
+}
+
+.navbar-default .navbar-nav>li>a:focus{
+	color: white;
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+	color: #337ab7;
+	font-size: 19px;
+}
+
+.navbar-toggle{
+	background-color: red;
+	border-color:#A80000;
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+		background-color:  #A80000;
+}
