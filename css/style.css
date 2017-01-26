@@ -346,7 +346,7 @@ vertical-align : middle;
 width : 100%;
 }
 #slider_sec {
-
+background-image : url("../img/img_barra.png");
 background-position : center center;
 background-repeat : no-repeat;
 background-size : 100% 100%;
@@ -354,7 +354,7 @@ height : 650px;
 width : 100%;
 }
 .left_crousel_btn, .right_crousel_btn {
-color : #fff;
+color : red;
 height : 20px;
 position : absolute;
 text-align : center;
@@ -367,14 +367,14 @@ font-weight : normal;
 font-family : lato;
 font-size : 60px;
 text-transform : capitalize;
-color : #fff;
+color : red;
 }
 .caption_carousel p {
 font-family : lato;
 font-size : 14px;
-color : #f6f6f6;
-border-top : 1px solid #fff;
-border-bottom : 1px solid #fff;
+color : red;
+border-top : 1px solid red;
+border-bottom : 1px solid red;
 display : inline;
 line-height : 35px;
 padding : 8px;
@@ -401,7 +401,7 @@ width : 25px;
 .carousel-indicators .active {
 width : 25px;
 height : 7px;
-background-color : white;
+background-color : red;
 }
 #counting_sec {
 background : none 0 0 repeat scroll #f0f0f0;
