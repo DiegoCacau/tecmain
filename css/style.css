@@ -1039,3 +1039,17 @@ text-transform : uppercase;
 	color:white;
 	background-color:#337ab7; 
 }
+
+.navbar-default .navbar-nav .open .dropdown-menu>li>a{
+	color: white;
+}
+
+
+#bs-example-navbar-collapse-1 > ul > li.dropdown.open > ul{
+	background-color: #A80000;
+
+}
+
+#bs-example-navbar-collapse-1 > ul > li.dropdown.open > ul > li:hover{
+	background-color: #337ab7;
+}
