@@ -1050,6 +1050,8 @@ text-transform : uppercase;
 
 }
 
-#bs-example-navbar-collapse-1 > ul > li.dropdown.open > ul > li:hover{
+.navbar-default .navbar-nav .open .dropdown-menu>li>a:hover{
 	background-color: #337ab7;
+	color: white;
 }
+
